@@ -24,10 +24,10 @@ function hideSettingsBox(){
 
 //..............selecting minutes logic..............
 
-var pomodoroMinutes = 00;
-var longBreakMinutes = 00;
-var shortBreakMinutes = 00;
-var seconds = 00;
+var pomodoroMinutes
+var longBreakMinutes
+var shortBreakMinutes
+var seconds
 
 var OutputMinutes = document.getElementById('minutes');
 var OutputSeconds = document.getElementById('seconds');
