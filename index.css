@@ -517,7 +517,7 @@ hr{
 @media only screen and (max-width: 420px)
 {
     .buttons{
-        width: 20rem;
+        width: 90vw;
         padding: 5px;
     }
     .buttons button{
