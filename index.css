@@ -493,6 +493,7 @@ hr{
     .full-bar{
         width: 70vw;
     }
+    
     .apply{
         bottom: -3%;
     }
@@ -564,7 +565,7 @@ hr{
         /* width: 5rem; */
         height: 2rem;
     }
-    
+
     .full-bar{
         width: 90vw;
     }
