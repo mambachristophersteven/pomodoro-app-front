@@ -544,10 +544,11 @@ hr{
         width: 13rem;
         height: 13rem;
     }
-    
+
     .inner-circle .time{
         font-size: 2.5rem;
     }
+    
     .inner-circle .restart{
         letter-spacing: 7px;
         margin-top: 1rem;
