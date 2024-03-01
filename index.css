@@ -474,6 +474,7 @@ hr{
     .full-bar{
         width: 30vw;
     }
+    
     .apply button{
         width: 9rem;
         padding: 18px;
@@ -486,7 +487,7 @@ hr{
         height: 85vh;
         width: 70vw;
     }
-    
+
     .apply button{
         width: 12rem;
         padding: 25px;
