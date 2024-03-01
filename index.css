@@ -559,11 +559,12 @@ hr{
         height: 75vh;
         width: 90vw;
     }
-    
+
     .input-minutes .inputs input{
         /* width: 5rem; */
         height: 2rem;
     }
+    
     .full-bar{
         width: 90vw;
     }
