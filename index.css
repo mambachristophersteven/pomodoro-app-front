@@ -545,6 +545,7 @@ hr{
     .inner-circle .restart{
         letter-spacing: 7px;
         margin-top: 1rem;
+        font-size: 12px;
     }
     .settings-box{
         height: 75vh;
