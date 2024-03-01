@@ -486,14 +486,16 @@ hr{
         height: 85vh;
         width: 70vw;
     }
+    
     .apply button{
         width: 12rem;
         padding: 25px;
     }
+
     .full-bar{
         width: 70vw;
     }
-    
+
     .apply{
         bottom: -3%;
     }
